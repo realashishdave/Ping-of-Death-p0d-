@@ -1,7 +1,6 @@
 @echo off
 title Ping 0f Death
 color a
-copy E:\Utilities\Dll.bat C:\Windows\System32
 :a 
 cls
 echo +=================================+
